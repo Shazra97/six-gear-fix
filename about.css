@@ -1,0 +1,16 @@
+*{
+    font-family: sans-serif;
+}
+.content, .content2{
+    background-color: #181818FF;
+}
+.bg-img{
+    background-image: url(./Assets/bg-featured.jpg);
+}
+.bg-logo{
+    background-image: url(./Assets/bg-logo.jpg);
+}
+.nav-link :hover{
+    color: white;
+    background-color: gray;
+}
